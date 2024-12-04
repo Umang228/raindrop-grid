@@ -64,7 +64,7 @@ const RainGrid = ({ rows = 20, cols = 15 }) => {
 
         return newGrid;
       });
-    }, 60);
+    }, 30);
 
     setCurrentColor("purple");
 
